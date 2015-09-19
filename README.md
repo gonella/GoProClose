@@ -1,5 +1,5 @@
 # Introduction
-This is an android application to make a gopro camera as a car camera, which allow the customer start record process automatically when driver starts the car. The motivation is customer should not be concern about the camera, it should be a automate process to start.  
+This is an android application(it is a service) to make a gopro camera as a car camera, which allow the customer start record process automatically when driver starts the car. The motivation is customer should not be concern about the camera, it should be a automate process to start.  
 
 ![GoProClose - Workflow](https://github.com/gonella/GoProClose/blob/master/doc/GoProCloseWorkFlow.png "GoProClose - Workflow")
 
