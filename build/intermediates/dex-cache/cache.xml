@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Adriano\AndroidStudioProjects\GoProClose\app\libs\httpclient-4.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b69bd03af60bf487b3ae1209a644ecac587bf6fc">
+        <dex dex="C:\Users\Adriano\AndroidStudioProjects\GoProClose\app\build\intermediates\pre-dexed\debug\httpclient-4.2.1-5e3f8c9bc926068771d82eae28d1b7bf5e76707b.jar" />
+    </item>
+    <item
+        jar="C:\Development\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Adriano\AndroidStudioProjects\GoProClose\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-71fc5573f5d1c0d6edfec1ada42d32c10293bf99.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adriano\AndroidStudioProjects\GoProClose\app\libs\httpcore-4.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd">
+        <dex dex="C:\Users\Adriano\AndroidStudioProjects\GoProClose\app\build\intermediates\pre-dexed\debug\httpcore-4.2.1-b19aada48ef9d7d908aa3eca00be9c08b55f0075.jar" />
+    </item>
+
+</items>
