@@ -16,3 +16,8 @@ This is an android application to make a gopro camera as a car camera, which all
  2. GoPro must enable wifi standby option. 
  3. 
 
+# Futuro work
+ 1. Integrate with framework GoProJavaApi, some maven dependency must be incorporated.
+ 2. UI improvements, giving more customize options to the customer. 
+ 2. Improve some timeout values, some start/stop record process should be accurated.
+ 3. Download recording files from GoPro into Android smartphone. 
